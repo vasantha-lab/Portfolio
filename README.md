@@ -19,7 +19,8 @@ A simple GST Calculator built using HTML, CSS, and JavaScript.
 
 ### Output
 
-<img width="647" height="504" alt="image" src="https://github.com/user-attachments/assets/8dbd43f5-cade-44a6-b629-7473c5f2af45" />
+<img width="932" height="586" alt="image" src="https://github.com/user-attachments/assets/31cc49aa-ceb5-40b9-bf9e-76db8873e4cb" />
+
 
 
 ## Contact
